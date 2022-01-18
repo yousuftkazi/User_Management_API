@@ -1,5 +1,5 @@
 # User_Management_API
-A fast api/mysql based persisting api for a user management system
+A fast api/pydantic/mysql based persisting api for a user management system
 
 Pre-requisites:
 1) Mysql
